@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
-MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore_web] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core_web] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_auth_web] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.multidex:multidex:2.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/2b3e215572f6cec86c432c83fcaee76f/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/eb57178bc3824f12cbbcb504440e1818/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e690edd073d619660ae5ddb79220494/jetified-firebase-analytics-17.2.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-database:19.2.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f29e0adb761fba0c0cc1f2e350318e9e/jetified-firebase-database-19.2.1/AndroidManifest.xml:15:1-38:12
@@ -23,17 +23,17 @@ MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mobcoder/.g
 MERGED from [com.google.firebase:firebase-database-collection:17.0.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/eec69eb3c9367a58deca6a5c02478ad4/jetified-firebase-database-collection-17.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/8272a0a55a3d8dfebd20e3415ee1d35d/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f4d36df2a3f945c9b1307caf4646b8da/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/57603a2bd1394a8198bdfecbaeab6ae2/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/47c9cb2b12eaf19671a0136195d1de2b/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/23b2d1f83b6af24954f517143a83a355/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/0ca2c89093db6c67157a3058069ed31e/jetified-play-services-measurement-sdk-17.2.2/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/e99cdc23687b1fa85a2e1df2eac74802/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f199a515d5e5ec64f7d690b3d643cc61/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/a3d515868f09c9a87fc70c87d56b7de2/jetified-play-services-measurement-base-17.2.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/58bc5c2f606058b96c63ff5ed9308160/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/07ab3980998336b4b860e7dd884cd21c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/a8abb22a750402b0ef5aa7e8e0895248/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
@@ -64,59 +64,59 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mobcoder/.gradle/ca
 MERGED from [androidx.print:print:1.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/3aa476c1108000f1a84cc7c17270c6c2/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/561c7d7356f2db6d297f1c7ea196927d/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/40e153655ddf89549f9061d8dfaec470/jetified-grpc-android-1.21.0/AndroidManifest.xml:2:1-13:12
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:2:5-33
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:4:5-66
-MERGED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:4:5-66
-MERGED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:4:5-66
-MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
-MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:4:5-66
+MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-database:19.2.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f29e0adb761fba0c0cc1f2e350318e9e/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:19.2.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f29e0adb761fba0c0cc1f2e350318e9e/jetified-firebase-database-19.2.1/AndroidManifest.xml:26:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:10:5-33:19
-MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/eb57178bc3824f12cbbcb504440e1818/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/eb57178bc3824f12cbbcb504440e1818/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:7:5-20
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:10:5-33:19
+MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e690edd073d619660ae5ddb79220494/jetified-firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e690edd073d619660ae5ddb79220494/jetified-firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:16:5-24:19
@@ -127,26 +127,26 @@ MERGED from [com.google.android.gms:play-services-auth:18.0.0] /home/mobcoder/.g
 MERGED from [com.google.android.gms:play-services-auth:18.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/46aaab831dc0bee0307b9bc4f41e7f5c/jetified-play-services-auth-18.0.0/AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6f48268e0983e28f281bf044951e8838/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6f48268e0983e28f281bf044951e8838/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/57603a2bd1394a8198bdfecbaeab6ae2/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/57603a2bd1394a8198bdfecbaeab6ae2/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/47c9cb2b12eaf19671a0136195d1de2b/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/47c9cb2b12eaf19671a0136195d1de2b/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/23b2d1f83b6af24954f517143a83a355/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/23b2d1f83b6af24954f517143a83a355/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/0ca2c89093db6c67157a3058069ed31e/jetified-play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/0ca2c89093db6c67157a3058069ed31e/jetified-play-services-measurement-sdk-17.2.2/AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/e99cdc23687b1fa85a2e1df2eac74802/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/e99cdc23687b1fa85a2e1df2eac74802/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f199a515d5e5ec64f7d690b3d643cc61/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f199a515d5e5ec64f7d690b3d643cc61/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/a3d515868f09c9a87fc70c87d56b7de2/jetified-play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/a3d515868f09c9a87fc70c87d56b7de2/jetified-play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/58bc5c2f606058b96c63ff5ed9308160/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/58bc5c2f606058b96c63ff5ed9308160/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/07ab3980998336b4b860e7dd884cd21c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
@@ -162,65 +162,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/mobco
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f7b2779022a8444fb816e7392feba2ca/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:12:9-31
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:12:9-31
 	android:icon
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:13:9-43
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:13:9-43
 	android:name
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:11:9-57
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:11:9-57
 activity#com.example.fin_ad.MainActivity
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:14:9-32:20
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:14:9-32:20
 	android:launchMode
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:16:13-43
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:16:13-43
 	android:hardwareAccelerated
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:19:13-47
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:19:13-47
 	android:windowSoftInputMode
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:20:13-55
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:20:13-55
 	android:configChanges
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:18:13-144
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:18:13-144
 	android:theme
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:17:13-47
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:17:13-47
 	android:name
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:15:13-41
 meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:25:13-27:40
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:25:13-27:40
 	android:value
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:27:17-37
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:27:17-37
 	android:name
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:26:17-82
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:26:17-82
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:28:13-31:29
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:28:13-31:29
 action#android.intent.action.MAIN
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:29:17-68
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:29:17-68
 	android:name
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:30:17-76
+ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml:30:27-74
+		ADDED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml:30:27-74
 uses-sdk
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml
-MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore_web] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore_web] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core_web] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core_web] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth_web] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth_web] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/2b3e215572f6cec86c432c83fcaee76f/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/2b3e215572f6cec86c432c83fcaee76f/multidex-2.0.0/AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/eb57178bc3824f12cbbcb504440e1818/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/eb57178bc3824f12cbbcb504440e1818/jetified-firebase-analytics-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e690edd073d619660ae5ddb79220494/jetified-firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e690edd073d619660ae5ddb79220494/jetified-firebase-analytics-17.2.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:7:5-9:41
@@ -237,28 +237,28 @@ MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/m
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/8272a0a55a3d8dfebd20e3415ee1d35d/jetified-play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f4d36df2a3f945c9b1307caf4646b8da/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f4d36df2a3f945c9b1307caf4646b8da/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/57603a2bd1394a8198bdfecbaeab6ae2/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/57603a2bd1394a8198bdfecbaeab6ae2/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/47c9cb2b12eaf19671a0136195d1de2b/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/47c9cb2b12eaf19671a0136195d1de2b/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/23b2d1f83b6af24954f517143a83a355/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/23b2d1f83b6af24954f517143a83a355/jetified-play-services-measurement-sdk-17.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/0ca2c89093db6c67157a3058069ed31e/jetified-play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/0ca2c89093db6c67157a3058069ed31e/jetified-play-services-measurement-sdk-17.2.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/e99cdc23687b1fa85a2e1df2eac74802/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/e99cdc23687b1fa85a2e1df2eac74802/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f199a515d5e5ec64f7d690b3d643cc61/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f199a515d5e5ec64f7d690b3d643cc61/jetified-play-services-measurement-base-17.3.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/a3d515868f09c9a87fc70c87d56b7de2/jetified-play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/a3d515868f09c9a87fc70c87d56b7de2/jetified-play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/58bc5c2f606058b96c63ff5ed9308160/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/58bc5c2f606058b96c63ff5ed9308160/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/07ab3980998336b4b860e7dd884cd21c/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
@@ -319,66 +319,66 @@ MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/mobcod
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/561c7d7356f2db6d297f1c7ea196927d/jetified-protolite-well-known-types-17.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/40e153655ddf89549f9061d8dfaec470/jetified-grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/40e153655ddf89549f9061d8dfaec470/jetified-grpc-android-1.21.0/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/mobcoder/Desktop/Projects/FinAd/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-database:19.2.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f29e0adb761fba0c0cc1f2e350318e9e/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-database:19.2.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f29e0adb761fba0c0cc1f2e350318e9e/jetified-firebase-database-19.2.1/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/40e153655ddf89549f9061d8dfaec470/jetified-grpc-android-1.21.0/AndroidManifest.xml:11:5-79
 MERGED from [io.grpc:grpc-android:1.21.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/40e153655ddf89549f9061d8dfaec470/jetified-grpc-android-1.21.0/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:24:5-68
+ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4e37cf8e856fba1058cf42ce5046d237/jetified-play-services-measurement-sdk-api-17.3.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/4566a004266be5c2cd7843810a18648e/jetified-play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
+		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:19
-MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:17:9-23:19
 MERGED from [com.google.firebase:firebase-firestore:21.4.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/6fbf8729d2def39072999fdbb2bf0b29/jetified-firebase-firestore-21.4.2/AndroidManifest.xml:17:9-23:19
 MERGED from [com.google.firebase:firebase-database:19.2.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f29e0adb761fba0c0cc1f2e350318e9e/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-database:19.2.1] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/f29e0adb761fba0c0cc1f2e350318e9e/jetified-firebase-database-19.2.1/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
@@ -390,37 +390,37 @@ MERGED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:18-89
+		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:85
+ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:85
 	android:value
-		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-82
+		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-82
 	android:name
-		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-127
+		ADDED from [:firebase_analytics] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+		ADDED from [:firebase_auth] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
-ADDED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FinAd/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+		ADDED from [:cloud_firestore] /home/mobcoder/Desktop/Projects/FIN_AD/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.database.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_database] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
+		ADDED from [:firebase_database] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_database/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-127
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] /home/mobcoder/Desktop/Projects/FinAd/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+		ADDED from [:firebase_core] /home/mobcoder/Desktop/Projects/FIN_AD/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/748685776170e436cc3ca2d5c7d9f0b7/jetified-firebase-auth-19.3.0/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -474,11 +474,11 @@ ADDED from [com.google.android.gms:play-services-auth:18.0.0] /home/mobcoder/.gr
 	android:name
 		ADDED from [com.google.android.gms:play-services-auth:18.0.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/46aaab831dc0bee0307b9bc4f41e7f5c/jetified-play-services-auth-18.0.0/AndroidManifest.xml:34:13-89
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:30:13-32:85
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:32:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/786b930f9d270d45d748a4a6c65c7e92/jetified-play-services-measurement-api-17.3.0/AndroidManifest.xml:31:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/298532076789356e0379694dfee0e6a2/jetified-play-services-measurement-api-17.2.2/AndroidManifest.xml:31:17-139
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:20.0.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/98e6d0e312f1fa14d109fc5583c7cd2d/jetified-firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
 	android:name
@@ -512,55 +512,55 @@ ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mobcoder/.gr
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/47c9cb2b12eaf19671a0136195d1de2b/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/b9240141bd6bf437d14a7fbcc9612afd/jetified-play-services-measurement-impl-17.3.0/AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/5b7cf5779deec93e6ab35f5b9491c5cd/jetified-play-services-measurement-impl-17.2.2/AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:36:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:37:13-36
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:38:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:35:13-100
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:40:17-79
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:40:25-76
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:46:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:47:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:45:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:50:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:51:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:52:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/ff4840eee46ccce5205de7b3c1842e62/jetified-play-services-measurement-17.3.0/AndroidManifest.xml:49:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/580aa7bdec8c434e7e011e385f095139/jetified-play-services-measurement-17.2.2/AndroidManifest.xml:49:13-87
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:19.3.0] /home/mobcoder/.gradle/caches/transforms-2/files-2.1/44614ab8a4acc0c2c918c8922be22a11/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
 	android:authorities

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mobcoder/Desktop/Projects/FinAd/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/mobcoder/Desktop/Projects/FIN_AD/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/mobcoder/.gradle/caches/transforms-2/files-2.1/01310857d00a6c3cdb5ca8612c291ea2/coordinatorlayout-1.0.0/res/values/values.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/mobcoder/Desktop/Projects/FinAd/android/app/src/main/res/values/styles.xml",
+                    "source": "/home/mobcoder/Desktop/Projects/FIN_AD/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -39,23 +39,6 @@
                         "endLines": "80",
                         "endColumns": "12",
                         "endOffsets": "6708"
-                    }
-                },
-                {
-                    "source": "/home/mobcoder/Desktop/Projects/FinAd/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,300,382,486,595,715,805",
-                        "endColumns": "143,100,81,103,108,119,89,66",
-                        "endOffsets": "194,295,377,481,590,710,800,867"
-                    },
-                    "to": {
-                        "startLines": "67,68,69,70,71,72,73,74",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "5528,5672,5773,5855,5959,6068,6188,6278",
-                        "endColumns": "143,100,81,103,108,119,89,66",
-                        "endOffsets": "5667,5768,5850,5954,6063,6183,6273,6340"
                     }
                 },
                 {
@@ -94,6 +77,23 @@
                         "endLines": "3,4,5,6,7,8,9,10,49,50,51,52,53,54,55,56,58,59,60,61,62,63,64,65,66,334,353",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "251,331,421,511,591,672,752,832,3295,3476,3601,3708,3888,4011,4127,4230,4585,4690,4871,4996,5171,5319,5382,5444,5523,21290,21707"
+                    }
+                },
+                {
+                    "source": "/home/mobcoder/Desktop/Projects/FIN_AD/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,300,382,486,595,715,805",
+                        "endColumns": "143,100,81,103,108,119,89,66",
+                        "endOffsets": "194,295,377,481,590,710,800,867"
+                    },
+                    "to": {
+                        "startLines": "67,68,69,70,71,72,73,74",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "5528,5672,5773,5855,5959,6068,6188,6278",
+                        "endColumns": "143,100,81,103,108,119,89,66",
+                        "endOffsets": "5667,5768,5850,5954,6063,6183,6273,6340"
                     }
                 },
                 {

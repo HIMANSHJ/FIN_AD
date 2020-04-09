@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mobcoder/Desktop/Projects/FinAd/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
+            "outputFile": "/home/mobcoder/Desktop/Projects/FIN_AD/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
                     "source": "/home/mobcoder/.gradle/caches/transforms-2/files-2.1/f7b2779022a8444fb816e7392feba2ca/core-1.0.0/res/values-kk/values-kk.xml",

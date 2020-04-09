@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mobcoder/Desktop/Projects/FinAd/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "outputFile": "/home/mobcoder/Desktop/Projects/FIN_AD/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
             "map": [
                 {
                     "source": "/home/mobcoder/.gradle/caches/transforms-2/files-2.1/9014447230cea3a17f071f00f6c17308/jetified-play-services-basement-17.1.1/res/values-mk/values.xml",

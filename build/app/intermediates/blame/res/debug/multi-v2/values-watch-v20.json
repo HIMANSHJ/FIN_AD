@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mobcoder/Desktop/Projects/FinAd/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/home/mobcoder/Desktop/Projects/FIN_AD/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/home/mobcoder/.gradle/caches/transforms-2/files-2.1/46aaab831dc0bee0307b9bc4f41e7f5c/jetified-play-services-auth-18.0.0/res/values-watch-v20/values.xml",
