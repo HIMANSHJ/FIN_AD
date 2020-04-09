@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">751204591978-stsmhl899oe38lppp98n62ls4c9ltppi.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://finad-59444.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">751204591978</string>
-    <string name="google_api_key" translatable="false">AIzaSyAUbcdHNeAIX321tGGv_KgkV7OxB_PZu18</string>
-    <string name="google_app_id" translatable="false">1:751204591978:android:5db0b888f74f63c2229d13</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUbcdHNeAIX321tGGv_KgkV7OxB_PZu18</string>
-    <string name="google_storage_bucket" translatable="false">finad-59444.appspot.com</string>
-    <string name="project_id" translatable="false">finad-59444</string>
+    <string name="default_web_client_id" translatable="false">484208824542-9qun6mhq14g2523uqp4u1au2mql4ubfe.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fin-ad.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">484208824542</string>
+    <string name="google_api_key" translatable="false">AIzaSyAnp6lbhW3uceVK3dmNr4DFylw4I6571b0</string>
+    <string name="google_app_id" translatable="false">1:484208824542:android:462e681db9c43ddfbcb24f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAnp6lbhW3uceVK3dmNr4DFylw4I6571b0</string>
+    <string name="google_storage_bucket" translatable="false">fin-ad.appspot.com</string>
+    <string name="project_id" translatable="false">fin-ad</string>
 </resources>
