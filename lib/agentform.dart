@@ -16,10 +16,10 @@ class _SignUpFormState extends State<SignUpForm> {
 
   final _formKey = GlobalKey<FormState>();
   //var _passKey = GlobalKey<FormFieldState>();
+  // String _password = '';
   String name = '';
   var address = '';
   int mob;
-  // String _password = '';
   String _maritalStatus = 'Unmarried';
   bool _termsChecked = true;
   var email;

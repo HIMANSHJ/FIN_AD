@@ -4,6 +4,7 @@ import 'package:flutter/services.dart';
 import 'dart:async';
 import 'package:intl/intl.dart';
 import 'submit.dart';
+import 'package:firebase_database/firebase_database.dart';
 
 class UserForm1 extends StatefulWidget {
   @override
@@ -11,19 +12,23 @@ class UserForm1 extends StatefulWidget {
 }
 
 class _SignUpFormState extends State<UserForm1> {
+  FirebaseDatabase dbref = FirebaseDatabase.instance;
+
   final _formKey = GlobalKey<FormState>();
   //var _passKey = GlobalKey<FormFieldState>();
+  // String _password = '';
   String name = '';
   var address = '';
-  int mob;
-  // String _password = '';
-  String insurance = 'personal';
-  String _maritalStatus = 'single';
-  bool _termsChecked = true;
   var email;
-  int age;
+  // int age;
+  int mob;
+  int salary;
+  String insurance = 'Personal';
+  String _maritalStatus = 'Unmarried';
+  bool _termsChecked = true;
   var _currencies = ['Male', 'Female', 'Other'];
   var _currentItemSelected = 'Male';
+
   void _onDropDownItemSelected(String newValueSelected) {
     setState(() {
       this._currentItemSelected = newValueSelected;
@@ -89,6 +94,7 @@ class _SignUpFormState extends State<UserForm1> {
             name = value;
           });
         }));
+
     formWidget.add(new TextFormField(
       decoration: new InputDecoration(
         icon: const Icon(Icons.calendar_today),
@@ -105,6 +111,7 @@ class _SignUpFormState extends State<UserForm1> {
         _chooseDate(context, _controller.text);
       }),
     );
+
     formWidget.add(new TextFormField(
         decoration: InputDecoration(
             icon: const Icon(Icons.business),
@@ -121,6 +128,7 @@ class _SignUpFormState extends State<UserForm1> {
             address = value;
           });
         }));
+
     formWidget.add(new TextFormField(
         decoration: const InputDecoration(
           icon: const Icon(Icons.phone),
@@ -140,6 +148,7 @@ class _SignUpFormState extends State<UserForm1> {
             mob = int.tryParse(value);
           });
         }));
+
     String validateEmail(String value) {
       if (value.isEmpty) {
         return 'Please enter mail';
@@ -178,10 +187,11 @@ class _SignUpFormState extends State<UserForm1> {
       },
       onSaved: (value) {
         setState(() {
-          age = int.tryParse(value);
+          salary = int.tryParse(value);
         });
       },
     ));
+
     formWidget
         .add(new FormField<String>(builder: (FormFieldState<String> state) {
       return InputDecorator(
@@ -253,7 +263,7 @@ class _SignUpFormState extends State<UserForm1> {
           children: <Widget>[
             RadioListTile<String>(
               title: const Text('Unmarried'),
-              value: 'single',
+              value: 'Unmarried',
               groupValue: _maritalStatus,
               onChanged: (value) {
                 setState(() {
@@ -327,6 +337,7 @@ class _SignUpFormState extends State<UserForm1> {
       ),
       controlAffinity: ListTileControlAffinity.leading,
     ));
+
     formWidget.add(new RaisedButton(
         color: Colors.blue,
         textColor: Colors.white,
@@ -338,15 +349,72 @@ class _SignUpFormState extends State<UserForm1> {
   void onPressedSubmit() {
     if (_formKey.currentState.validate() && _termsChecked) {
       _formKey.currentState.save();
-      navigateToSubmitPage(context);
-      print("Name " + name);
+       print("Name " + name);
       print("Email " + email);
-      print("Address" + address);
-      print("Mobile NO." + mob.toString());
-      print("Postcode " + age.toString());
-      print("Marital Status " + _maritalStatus);
+      print("Address " + address);
+      print("Mobile Number " + mob.toString());
+      // print("Age " + age.toString());
       // print("Password " + _password);
-      // print("Termschecked " + _termsChecked.toString());
+      print("Salary " + salary.toString());
+      print("Insurance type " + insurance);
+      print("Gender " + _currentItemSelected);
+      print("Marital Status " + _maritalStatus);
+      print("Termschecked " + _termsChecked.toString());
+      dbref
+          .reference()
+          .child("User1")
+          .child("user1_id")
+          .child("name")
+          .set(name);
+      dbref
+          .reference()
+          .child("User1")
+          .child("user1_id")
+          .child("email")
+          .set(email);
+      dbref
+          .reference()
+          .child("User1")
+          .child("user1_id")
+          .child("address")
+          .set(address);
+      dbref
+          .reference()
+          .child("User1")
+          .child("user1_id")
+          .child("mobile no.")
+          .set(mob);
+      dbref
+           .reference()
+           .child("User1")
+           .child("user1_id")
+           .child("salary")
+           .set(salary);
+      dbref
+          .reference()
+          .child("User1")
+          .child("user1_id")
+          .child("Insurance type")
+          .set(insurance);
+      dbref
+          .reference()
+          .child("Agents")
+          .child("agent_id")
+          .child("Gender")
+          .set(_currentItemSelected);
+      dbref
+          .reference()
+          .child("Agents")
+          .child("agent_id")
+          .child("maritialstatus")
+          .set(_maritalStatus);
+      // dbref
+      //     .reference()
+      //     .child("Agents")
+      //     .child("agent_id")
+      //     .child("password")
+      //     .set(_password);
+      navigateToSubmitPage(context);
       // Scaffold.of(context)
       //     .showSnackBar(SnackBar(content: Text('Form Submitted')));
     }
