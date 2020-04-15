@@ -1,4 +1,4 @@
-import 'package:FinAd/main.dart';
+import 'package:FinAd/main/main.dart';
 import 'package:FinAd/services/authentication.dart';
 import 'package:flutter/material.dart';
 
@@ -55,8 +55,11 @@ class _LoginSignupPageState extends State<LoginSignupPage> {
           _isLoading = false;
         });
 
+       
+
         if (userId.length > 0 && userId != null && _isLoginForm) {
           widget.loginCallback();
+          
         }
       } catch (e) {
         print('Error: $e');
@@ -66,6 +69,7 @@ class _LoginSignupPageState extends State<LoginSignupPage> {
           _formKey.currentState.reset();
         });
       }
+      
     }
   }
 

@@ -1,4 +1,4 @@
-import 'package:FinAd/home_page.dart';
+import 'package:FinAd/main/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:FinAd/pages/login_signup_page.dart';
 import 'package:FinAd/services/authentication.dart';

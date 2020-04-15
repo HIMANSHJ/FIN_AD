@@ -4,7 +4,7 @@
             "outputFile": "/home/mobcoder/Desktop/Projects/FIN_AD/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/home/mobcoder/.gradle/caches/transforms-2/files-2.1/f7b2779022a8444fb816e7392feba2ca/core-1.0.0/res/values-v21/values-v21.xml",
+                    "source": "/home/mobcoder/.gradle/caches/transforms-2/files-2.1/2a49216d857ed26a2fdd66d0d020011a/core-1.0.0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
