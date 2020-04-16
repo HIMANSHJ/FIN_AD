@@ -148,7 +148,7 @@ class SubPage extends StatelessWidget {
                         ? Colors.blue
                         : Colors.white,
                 child: Text(
-                  "USER",
+                  "U",
                   style: TextStyle(fontSize: 40.0),
                 ),
               ),

@@ -377,7 +377,7 @@ class _SignUpFormState extends State<UserForm2> {
           .reference()
           .child("User2")
           .child("user2_id")
-          .child("mobile no.")
+          .child("mobile number")
           .set(mob);
       dbref2
           .reference()
