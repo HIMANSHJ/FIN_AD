@@ -1,4 +1,4 @@
-import 'package:FinAd/main/main.dart';
+import 'package:FinAd/main.dart';
 import 'package:FinAd/services/authentication.dart';
 import 'package:flutter/material.dart';
 
